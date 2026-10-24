@@ -32,8 +32,6 @@ The retail supply chain faces challenges in inventory management, supplier relia
 
 ## 3. Dashboard Preview
 
-**(This is the most important section! Add screenshots of your Power BI dashboard here.)**
-
 - **Executive Overview:**
   - ![Executive Overview](powerBI/Dashboard_Screenshots/executive_overview.png)
   - _Caption: The main dashboard shows total sales, profit margin, OTIF rates, and a breakdown of key metrics._
