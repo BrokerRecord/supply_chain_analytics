@@ -172,7 +172,7 @@ Supply-Chain-Analytics/
 
 ## Author
 
-- **[Awa Mbaye]**
+- **MBAYE Awa**
 - **LinkedIn:** [Awa Mbaye](https://www.linkedin.com/in/awa-mbaye-4930a328b/)
 - **GitHub:** [@BrokerRecord](https://github.com/BrokerRecord)
 
