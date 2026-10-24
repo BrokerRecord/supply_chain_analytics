@@ -1,0 +1,113 @@
+# ============================================
+# PYTHON
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ============================================
+# VIRTUAL ENVIRONMENTS
+# ============================================
+.venv/
+venv/
+env/
+ENV/
+.conda/
+
+# ============================================
+# JUPYTER NOTEBOOK
+# ============================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ============================================
+# ENVIRONMENT VARIABLES & SECRETS
+# ============================================
+.env
+.env.local
+.env.*.local
+*.key
+secrets.json
+credentials.json
+
+# ============================================
+# DATABASE / SQL
+# ============================================
+*.sqlite
+*.db
+*.sqlite3
+*.mdb
+
+# ============================================
+# DATA FILES (optional — see notes below)
+# ============================================
+# Uncomment the next line if the raw CSV is >100MB
+# data/raw/*.csv
+# data/processed/*.csv
+
+# ============================================
+# POWER BI
+# ============================================
+*.pbix.tmp
+~$*.pbix
+.pbix.bak
+
+# ============================================
+# LATEX BUILD ARTIFACTS
+# ============================================
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+
+# ============================================
+# OS-SPECIFIC FILES
+# ============================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ============================================
+# IDE / EDITOR
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-workspace
+
+# ============================================
+# TEMPORARY FILES
+# ============================================
+*.tmp
+*.temp
+*.bak
+*.log
+temp/
+tmp/

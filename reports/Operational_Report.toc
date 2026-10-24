@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}Executive Summary}{2}{section.1}%
+\contentsline {section}{\numberline {2}Introduction \& Business Context}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Business Problem}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Project Objectives}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Data Overview \& Methodology}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Dataset Description}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Analytical Pipeline}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Tools \& Technologies}{3}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Operational Performance Analysis}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Financial Summary}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Category-Level Financial Performance}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Inventory Risk Assessment}{4}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Supplier Performance Analysis}{4}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Supplier Tier Distribution}{4}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Key Supplier Risks}{5}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Lead Time vs. Supplier Rating}{5}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Demand Forecasting Analysis}{5}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Methodology}{5}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Model Selection Results}{6}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Q1 2026 Demand Forecast}{6}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Business Action}{6}{subsection.6.4}%
+\contentsline {section}{\numberline {7}Dashboard Overview}{7}{section.7}%
+\contentsline {section}{\numberline {8}Limitations}{7}{section.8}%
+\contentsline {section}{\numberline {9}Recommendations \& Future Scope}{7}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Immediate Actions}{7}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Strategic Initiatives}{8}{subsection.9.2}%
+\contentsline {section}{\numberline {10}Conclusion}{8}{section.10}%
+\contentsline {section}{\numberline {A}Key SQL Queries}{9}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}Executive Summary Query}{9}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}Category Financial Performance}{9}{subsection.A.2}%
+\contentsline {subsection}{\numberline {A.3}Supplier Tier Classification}{9}{subsection.A.3}%
+\contentsline {section}{\numberline {B}Forecasting Model Evaluation Results}{10}{appendix.B}%
+\contentsline {section}{\numberline {C}Dashboard Screenshots}{10}{appendix.C}%

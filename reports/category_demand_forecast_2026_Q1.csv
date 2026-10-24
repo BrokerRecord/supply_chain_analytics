@@ -1,0 +1,16 @@
+Date,Product_Category,Selected_Model,Forecast_Units
+2026-01-31,Electronics,Holt trend,2725370.592237799
+2026-02-28,Electronics,Holt trend,2724414.4316656585
+2026-03-31,Electronics,Holt trend,2723458.2710935185
+2026-01-31,Fashion,Holt trend,2864860.798107952
+2026-02-28,Fashion,Holt trend,2870195.223444395
+2026-03-31,Fashion,Holt trend,2875529.648780837
+2026-01-31,Food,Holt trend,2817076.497689341
+2026-02-28,Food,Holt trend,2818492.3477684003
+2026-03-31,Food,Holt trend,2819908.19784746
+2026-01-31,Health,Seasonal naive,2762469.0
+2026-02-28,Health,Seasonal naive,2560174.0
+2026-03-31,Health,Seasonal naive,3006284.0
+2026-01-31,Home,Seasonal naive,2736767.0
+2026-02-28,Home,Seasonal naive,2645713.0
+2026-03-31,Home,Seasonal naive,2566472.0
